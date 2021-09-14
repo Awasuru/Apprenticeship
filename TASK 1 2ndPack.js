@@ -4,8 +4,8 @@ class MathEngine{
     	this.num1=num1;
       	this.num2=num1;
     }
-  	sum(){
-    	return this.num1+this.num2;
+    sum(){
+    return this.num1+this.num2;
     }
     substract(){
     	return this.num1-this.num2;
